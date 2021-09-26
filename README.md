@@ -227,3 +227,4 @@ Starting from 4.2.0 and 3.4.9 builds the macOS Travis build environment was upda
 
 Starting from 4.3.0 and 3.4.10 builds the Linux build environment was updated from `manylinux1` to `manylinux2014`. This dropped support for old Linux distributions.
 
+triger
